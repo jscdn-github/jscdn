@@ -2971,7 +2971,8 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_newsletter.scss */
 .newletter_area {
-  background-image: url(../img/banner/newsletter.png);
+  /* background-image: url(../img/banner/newsletter.png); */
+  background-image: url(https://cdn.jsdelivr.net/gh/jscdn-github/jscdn/img/banner/newsletter.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3350,7 +3351,9 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_video.scss */
 .video_bg {
-  background-image: url(../img/banner/video.png);
+  /* background-image: url(../img/banner/video.png); */
+ 
+  background-image: url(https://cdn.jsdelivr.net/gh/jscdn-github/jscdn/img/banner/newsletter.png);
 }
 
 /* line 4, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_video.scss */
