@@ -154,6 +154,14 @@ button::-moz-focus-inner {
   padding-right: 6px;
   width: 100%; }
 
+  @media screen and (max-width:760px){
+    .mfp-iframe {width: 100%;height: 550px!important;}
+   
+    .mfp-container {height: 60%;}
+   }
+
+  
+
 .mfp-counter {
   position: absolute;
   top: 0;
